@@ -1,6 +1,3 @@
-# ViewUtilsNB
-这是一个ViewUtils框架，可以基于注解的形式惊醒控件的绑定和按钮点击事件
-参考代码：
 package com.example.myviewutils;
 
 import android.app.Activity;
@@ -45,3 +42,6 @@ public class MainActivity extends Activity {
 		}
 	}
 	
+
+	
+}
